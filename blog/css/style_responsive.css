@@ -1,0 +1,5 @@
+@media screen and (max-width: 792px) {
+  .heading h2 {
+    font-size: 25px;
+  }
+}

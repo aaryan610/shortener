@@ -1,0 +1,91 @@
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[09-May-2020 15:39:23 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[09-May-2020 15:39:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[09-May-2020 15:39:24 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[09-May-2020 15:39:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[10-May-2020 13:15:41 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[10-May-2020 13:15:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[10-May-2020 13:15:49 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[10-May-2020 13:15:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[28-May-2020 19:39:00 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[28-May-2020 19:39:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[31-May-2020 14:50:58 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[31-May-2020 14:50:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:08 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 10:38:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:33 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 10:38:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 10:38:56 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 10:38:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:43:27 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 11:43:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:43:54 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 11:43:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[01-Jun-2020 11:44:19 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[01-Jun-2020 11:44:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 7
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 26
+[12-Jun-2020 00:39:08 UTC] PHP Notice:  Undefined variable: check in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 29
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 36
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 37
+[12-Jun-2020 00:39:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/j9v3ruoaz4ip/public_html/llity.tech/admin/index.php on line 70
