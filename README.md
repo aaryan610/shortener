@@ -1,6 +1,6 @@
 # URL Shortener
 
-This URL Shortener is an open-source project created by Aaryan Khandelwal. It is creeated using php and mySQL.
+This URL Shortener is an open-source project created by Aaryan Khandelwal. It is created using php and mySQL.
 
 ### Features
 
